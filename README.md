@@ -39,4 +39,5 @@ We welcome contributions from the community to enhance the Simon Game! Please fo
 
 Rediscover the classic memory game with a modern twist. Test your skills, challenge your memory, and have fun with the Simon Game! Ready to play? Dive in and see how far you can go!
 <hr>
+
 👩‍💻👨‍💻 **Happy Gaming!**
